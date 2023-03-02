@@ -4,7 +4,7 @@
 # 
 # Translators:
 # memi <memi@gmx.net>, 2011.
-# Seb Hoff <transifex@sebhoff.net>, 2012.
+
 # Vinzenz Vietzke <vinz@fedoraproject.org>, 2011.
 msgid ""
 msgstr ""
